@@ -1,0 +1,31 @@
+{
+  "Name": "Overdose",
+  "Author": "MerelyMiserable",
+  "Description": "A pack made to push things to the extreme\r\n with things like infinite values negative values\r\n and custom syringe's.",
+  "ModVersion": "2.0",
+  "GameVersion": "1.21+",
+  "ThumbnailPath": "OverdoseThumb.png",
+  "EntryPoint": "Overdose.Overdose",
+  "Tags": [],
+  "Scripts": [
+    "Overdose.cs",
+    "KabooiePoison.cs",
+    "antibomb.cs",
+    "KabooieSyringe.cs",
+    "OuttahereSyringe.cs",
+    "Nukegun.cs",
+    "Worpgun.cs",
+    "OuttaherePoison.cs",
+    "FeelsPoison.cs",
+    "FeelsSyringe.cs",
+    "WincePoison.cs",
+    "WinceSyringe.cs",
+    "antiWincePoison.cs",
+    "antiWinceSyringe.cs",
+    "LSPoison.cs",
+    "LSSyringe.cs"
+  ],
+  "Active": false,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2148965453"
+}
