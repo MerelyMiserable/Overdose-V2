@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "overdose", "overdose.csproj", "{CDDFA794-277F-43FF-BEFC-A91A44D59F7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDDFA794-277F-43FF-BEFC-A91A44D59F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDDFA794-277F-43FF-BEFC-A91A44D59F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDDFA794-277F-43FF-BEFC-A91A44D59F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDDFA794-277F-43FF-BEFC-A91A44D59F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD5B1A3C-ABF9-4707-AD83-6FF8E5512A16}
+	EndGlobalSection
+EndGlobal
